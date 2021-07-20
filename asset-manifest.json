@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/utkarshpaliwal/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/utkarshpaliwal/static/js/main.943d6c68.chunk.js",
+    "main.js.map": "/utkarshpaliwal/static/js/main.943d6c68.chunk.js.map",
+    "runtime-main.js": "/utkarshpaliwal/static/js/runtime-main.3c69ffec.js",
+    "runtime-main.js.map": "/utkarshpaliwal/static/js/runtime-main.3c69ffec.js.map",
+    "static/js/2.0c5fb085.chunk.js": "/utkarshpaliwal/static/js/2.0c5fb085.chunk.js",
+    "static/js/2.0c5fb085.chunk.js.map": "/utkarshpaliwal/static/js/2.0c5fb085.chunk.js.map",
+    "static/js/3.288061a1.chunk.js": "/utkarshpaliwal/static/js/3.288061a1.chunk.js",
+    "static/js/3.288061a1.chunk.js.map": "/utkarshpaliwal/static/js/3.288061a1.chunk.js.map",
+    "index.html": "/utkarshpaliwal/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/utkarshpaliwal/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0c5fb085.chunk.js.LICENSE.txt": "/utkarshpaliwal/static/js/2.0c5fb085.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c69ffec.js",
+    "static/js/2.0c5fb085.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.943d6c68.chunk.js"
+  ]
+}
